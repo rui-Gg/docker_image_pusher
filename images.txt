@@ -1,3 +1,4 @@
-#redis
+busybox
 nginx:stable
-redis:7.2
+redis
+alpine:stable
