@@ -1,4 +1,4 @@
 busybox
-nginx:stable
+nginx:latest
 redis
-alpine:stable
+alpine:latest
